@@ -30,3 +30,5 @@ stack.yaml.lock
 # nix artifacts
 result
 
+# direnv artifacts
+.direnv/
