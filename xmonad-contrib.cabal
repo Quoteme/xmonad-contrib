@@ -303,6 +303,7 @@ library
                         XMonad.Layout.SimpleFloat
                         XMonad.Layout.Simplest
                         XMonad.Layout.SimplestFloat
+                        XMonad.Layout.SimplestFloatDec
                         XMonad.Layout.SortedLayout
                         XMonad.Layout.Spacing
                         XMonad.Layout.Spiral
